@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Your Love",
+  "base_artist": "JISOO",
+  "createdAt": "2025-12-27T13:41:49.852124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Need Your Love",
+      "artist": "Curtis Harding",
+      "has_synced": true,
+      "path": "select/01_Need_Your_Love_Curtis_Harding.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Without Your Love",
+      "artist": "Conro",
+      "has_synced": true,
+      "path": "select/02_Without_Your_Love_Conro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Because of Your Love",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/03_Because_of_Your_Love_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Carrying Your Love With Me",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Carrying_Your_Love_With_Me_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Carrying Your Love With Me (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Carrying_Your_Love_With_Me_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Carrying Your Love With Me - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_Carrying_Your_Love_With_Me_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy For Your Love",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/07_Crazy_For_Your_Love_Exile.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drunk On Your Love",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/08_Drunk_On_Your_Love_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How Your Love Makes Me Feel",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/09_How_Your_Love_Makes_Me_Feel_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Your Love Makes Me Feel",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/10_How_Your_Love_Makes_Me_Feel_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Won't Take Less Than Your Love",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/11_I_Won't_Take_Less_Than_Your_Love_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/12_If_I_Could_Only_Win_Your_Love_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (2008 Remaster)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/13_If_I_Could_Only_Win_Your_Love_(2008_Remaster)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (2008 Remastered Album Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/14_If_I_Could_Only_Win_Your_Love_(2008_Remastered_Album_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Could Only Win Your Love (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/15_If_I_Could_Only_Win_Your_Love_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Your Love",
+      "artist": "JISOO",
+      "has_synced": false,
+      "path": "select/pl_01_Your_Love_JISOO.txt"
+    }
+  ]
+}
